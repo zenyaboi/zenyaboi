@@ -1,7 +1,7 @@
 ## Olá, eu sou o Gabriel Franke :]
 
 - 🔭 Hoje eu trabalho com front-end
-- 🌱 Estou aprendendo C# e Lua para fazer jogos, Python, Typescript (React/Next.Js) para desenvolvimento web
+- 🌱 Estou aprendendo C# e Lua para fazer jogos, Python, Typescript (React/Next.Js/Angular) para desenvolvimento web
 
 [![Zenya's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenyaboi&include_all_commits=true&count_private=true&show_icons=true&theme=dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenyaboi&count_private=true&show_icons=true&theme=dark&hide=shaderlab)](https://github.com/anuraghazra/github-readme-stats)
