@@ -2,6 +2,7 @@
 
 - Curso na PUCPR Jogo Digitais Bachalerado
 - Trabalhei por 2 anos em front-end e back-end
+- Tenho experiência com React/Next.js, TypeScript e SCSS/SASS
 - No momento, trabalhando em um jogo na Unreal Engine
 - Ja trabalhei na Unity, Construct 3 e GameMaker Studio 2
 - Aprendendo Godot Engine e Unreal Engine (C++)
