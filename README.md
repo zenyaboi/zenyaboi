@@ -2,10 +2,9 @@
 
 - Curso na PUCPR Jogo Digitais Bachalerado
 - Trabalhei por 2 anos em front-end e back-end
-- Tenho experiência com React/Next.js, TypeScript e SCSS/SASS
+- Tenho experiência com React/Next.js, JavaScript/TypeScript e SCSS/SASS
 - No momento, trabalhando em um jogo na Unreal Engine
-- Ja trabalhei na Unity, Construct 3 e GameMaker Studio 2
-- Aprendendo Godot Engine e Unreal Engine (C++)
+- Ja trabalhei com Unity, Construct 3 e GameMaker Studio 2
 
 [![Zenya's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenyaboi&include_all_commits=true&count_private=true&show_icons=true&theme=dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenyaboi&count_private=true&show_icons=true&theme=dark&hide=shaderlab)](https://github.com/anuraghazra/github-readme-stats)
